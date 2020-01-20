@@ -1,5 +1,9 @@
 # RectangularExample
 
+Original tutorial:
+https://medium.com/netscape/visualizing-data-with-angular-and-d3-209dde784aeb
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.21.
 
 ## Development server
